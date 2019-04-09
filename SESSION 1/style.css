@@ -1,0 +1,23 @@
+body{
+	font-family:  'Oxygen', sans-serif;
+	background-color: #34495e;
+}
+
+h1{
+	text-align: center;
+}
+
+hr{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.table{
+	text-align: center;
+	border-color: #34495e;
+	background-color: #bdc3c7;
+	}
+
+td:hover{
+	background-color: yellow;
+}
